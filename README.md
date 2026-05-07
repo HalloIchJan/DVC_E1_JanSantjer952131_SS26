@@ -1,4 +1,4 @@
-# DVC_E1_JanSantjer952131_SS26
+# DVC_E1_Versionskontrolle mit Git
 
 Dies ist mein Repo für die Abgabe der Versionskontrolle (DVC). 
 
