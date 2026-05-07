@@ -103,3 +103,16 @@ Verwendete Befehle:
 ## Screenshot
 
 ![Git MV](Screenshots/GitMV.png)
+
+
+# 8. Git RM
+
+In diesen Schritt löschen wir die im Schritt 7. neu erstellte und umbenannte Datei wieder aus dem Repo. Das machen wir mit dem Befehl "Git rm". 
+
+Verwendete Befehle: 
+`git rm zweiteDatei.txt`
+`git status`
+
+## Screenshots
+
+![Git RM ](Screenshots/GitRM.png)
