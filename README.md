@@ -70,3 +70,17 @@ Verwendeter Befehl:
 ## Screenshot
 
 ![Git Push](Screenshots/GitPush.png)
+
+
+# 6. Git Diff
+
+Mit "git diff" wurden Änderungen vor dem Commit angezeigt.
+
+Verwendete Befehle: 
+`Set-Content ersteDatei.txt "Hallo Git"`
+`Add-Content ersteDatei.txt "Zweite Zeile fuer diff Test"`
+`git diff`
+
+## Screenshot
+
+![Git Diff](Screenshots/GitDiff.png)
