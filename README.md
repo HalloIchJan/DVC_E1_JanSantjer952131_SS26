@@ -180,3 +180,10 @@ Verwendete Befehle:
 ## Screenshots
 
 ![Git Merge Konflikt](Screenshots/GitMergeKonflikt.png)
+
+
+# 12. Pull Request 
+
+Ich habe im Repo: https://github.com/edlich/education eine Pull Request erstellt darin finden Sie das Rezept für den leckersten Kartoffelsalat den es auf der Welt gibt. Das Rezept stammt von meiner Mutter und ist perfekt für Leute die sehr mäckelig sind beim essen. :) 
+
+Pull Request: https://github.com/edlich/education/pull/595
