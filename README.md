@@ -84,3 +84,22 @@ Verwendete Befehle:
 ## Screenshot
 
 ![Git Diff](Screenshots/GitDiff.png)
+
+
+# 7. Git MV 
+
+Um das anschaulicher zu machen habe ich erstmal eine neue Datei angelegt und diese "neueDatei.txt" genannt. 
+
+Verwendete Befehle: 
+`echo Datei fuer mv Test > neueDatei.txt`
+`git add neueDatei.txt`
+`git commit -m "Neue Datei anlegen für mv"`
+`git push`
+`git mv neueDatei.txt zweiteDatei.txt`
+`git status`
+`git commit -m "Umbennen der NeuenDatei"`
+`git push`
+
+## Screenshot
+
+![Git MV](Screenshots/GitMV.png)
