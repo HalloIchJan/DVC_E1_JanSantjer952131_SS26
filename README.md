@@ -143,3 +143,40 @@ Verwendete Befehle:
 ## Screenshots
 
 ![Git Checkout](Screenshots/GitCheckout.png)
+
+
+## 11. Branching und Mergen
+
+Ich habe zwei verschiedene Branches erstellt einmal einen "feature" und einen "bugs" branch. Ich habe einmal zwischen den Branches geswitcht und anschließend gemerged. 
+
+Verwendete Befehle: 
+`git checkout -b feature`
+`echo Text aus Feature >> neuesFeature.txt`
+`git add neuesFeature.txt`
+`git commit -m "Datei neuesFeature hinzufügen"`
+`git checkout main`
+`git checkout -b bugs`
+`echo Text aus Bugs >> neuesFeature.txt`
+`git add neuesFeature.txt`
+`git commit -m "Bug ergänzt"`
+`git branch`
+`git checkout main` 
+`git merge feature` 
+
+## Screenshots
+
+![Git Branch](Screenshots/GitBranchErstellen.png)
+
+## Merge Konflikt 
+
+Beim mergen der beiden Branches enstand leider ein Merge Konflikt, da ich in beiden Branches dieselbe Datei verändert habe. Ich habe den Konflikt manuell im Main Branch dann gelöst. 
+
+Verwendete Befehle: 
+`git merge bugs`
+`git add neuesFeature.txt`
+`git commit -m "Merge Konflikt geloest"`
+`git push`
+
+## Screenshots
+
+![Git Merge Konflikt](Screenshots/GitMergeKonflikt.png)
