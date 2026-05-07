@@ -169,7 +169,7 @@ Verwendete Befehle:
 
 ## Merge Konflikt 
 
-Beim mergen der beiden Branches enstand leider ein Merge Konflikt, da ich in beiden Branches dieselbe Datei verändert habe. Ich habe den Konflikt manuell im Main Branch dann gelöst. 
+Beim mergen der beiden Branches enstand leider ein Merge Konflikt, da ich in beiden Branches dieselbe Datei verändert habe. Ich habe den Konflikt anschließend im Main-Branch manuell gelöst. 
 
 Verwendete Befehle: 
 `git merge bugs`
