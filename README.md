@@ -115,4 +115,16 @@ Verwendete Befehle:
 
 ## Screenshots
 
-![Git RM ](Screenshots/GitRM.png)
+![Git RM](Screenshots/GitRM.png)
+
+
+# 9. Git Log
+
+Mit "git log" wurden die bisherigen Commits angezeigt.
+
+Verwendete Befehle: 
+`git log --oneline --graph --all`
+
+## Screenshots
+
+![Git Log](Screenshots/GitRLog.png)
