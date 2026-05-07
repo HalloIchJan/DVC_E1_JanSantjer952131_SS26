@@ -127,4 +127,4 @@ Verwendete Befehle:
 
 ## Screenshots
 
-![Git Log](Screenshots/GitRLog.png)
+![Git Log](Screenshots/GitLog.png)
