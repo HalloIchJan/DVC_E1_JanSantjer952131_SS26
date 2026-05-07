@@ -128,3 +128,18 @@ Verwendete Befehle:
 ## Screenshots
 
 ![Git Log](Screenshots/GitLog.png)
+
+
+# 10. Zeitreise mit Git Checkout
+
+In diesen Schritt sind wir mit Hilfe "git checkout" in einen früheren Commit gesprungen. 
+
+Verwendete Befehle: 
+`git log --oneline --graph --all`
+`git checkout 631748f`
+`git status`
+`git checkout main`
+
+## Screenshots
+
+![Git Checkout](Screenshots/GitCheckout.png)
